@@ -1,0 +1,225 @@
+{
+  "songName": "In the Hall of the Mountain King",
+  "arranger": "rytalfo",
+  "originalArtist": "Edvard Grieg (1875)",
+  "songLength": "?:??",
+  "baseBPM": 120,
+  "songSections": [
+    {
+      "name": "long rest",
+      "bpm": 120,
+      "timeSignature": 1,
+      "numberOfMeasures": 48,
+      "measures": []
+    },
+    {
+      "name": "gogo",
+      "bpm": 220,
+      "timeSignature": 1,
+      "numberOfMeasures": 39,
+      "measures": [
+        {
+          "events": [
+            {
+              "b": 3,
+              "e": 1
+            },
+            {
+              "b": 3,
+              "e": 0
+            },
+            {
+              "b": 3,
+              "e": 1
+            },
+            {
+              "b": 3,
+              "e": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "stagger 1",
+      "bpm": 220,
+      "timeSignature": 1,
+      "numberOfMeasures": 2,
+      "measures": [
+        {
+          "events": [
+            {
+              "b": 3,
+              "e": 1
+            },
+            {
+              "b": 3,
+              "e": 0
+            },
+            {
+              "b": 3,
+              "e": 1
+            },
+            {
+              "b": 3,
+              "e": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rest 1",
+      "bpm": 220,
+      "timeSignature": 1,
+      "numberOfMeasures": 2,
+      "measures": []
+    },
+    {
+      "name": "stagger 2",
+      "bpm": 220,
+      "timeSignature": 1,
+      "numberOfMeasures": 2,
+      "measures": [
+        {
+          "events": [
+            {
+              "b": 3,
+              "e": 1
+            },
+            {
+              "b": 3,
+              "e": 0
+            },
+            {
+              "b": 3,
+              "e": 1
+            },
+            {
+              "b": 3,
+              "e": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rest 2",
+      "bpm": 220,
+      "timeSignature": 1,
+      "numberOfMeasures": 2,
+      "measures": []
+    },
+    {
+      "name": "stagger 3",
+      "bpm": 220,
+      "timeSignature": 1,
+      "numberOfMeasures": 2,
+      "measures": [
+        {
+          "events": [
+            {
+              "b": 3,
+              "e": 1
+            },
+            {
+              "b": 3,
+              "e": 0
+            },
+            {
+              "b": 3,
+              "e": 1
+            },
+            {
+              "b": 3,
+              "e": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rapid",
+      "bpm": 220,
+      "timeSignature": 1,
+      "numberOfMeasures": 2,
+      "measures": [
+        {
+          "events": [
+            {
+              "b": 3,
+              "e": 1
+            },
+            {
+              "b": 3,
+              "e": 0
+            },
+            {
+              "b": 3,
+              "e": 0
+            },
+            {
+              "b": 3,
+              "e": 0
+            }
+          ]
+        },
+        {
+          "events": [
+            {
+              "b": 3,
+              "e": 0
+            },
+            {
+              "b": 3,
+              "e": 0
+            },
+            {
+              "b": 3,
+              "e": 0
+            },
+            {
+              "b": 3,
+              "e": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rest 3",
+      "bpm": 220,
+      "timeSignature": 1,
+      "numberOfMeasures": 2,
+      "measures": []
+    },
+    {
+      "name": "finale",
+      "bpm": 220,
+      "timeSignature": 1,
+      "numberOfMeasures": 1,
+      "measures": [
+        {
+          "events": [
+            {
+              "b": 3,
+              "e": 1
+            },
+            {
+              "b": 3,
+              "e": 0
+            },
+            {
+              "b": 3,
+              "e": 1
+            },
+            {
+              "b": 3,
+              "e": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
